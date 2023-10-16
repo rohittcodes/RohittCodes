@@ -20,9 +20,8 @@ src="https://img.shields.io/twitter/follow/rohittcodes?logo=twitter&style=for-th
 ### Skills
 
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
+ ![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts,py,cpp,mongodb,nodejs,nextjs,prisma,tailwind,react,git)
+
 
 
 ### Socials

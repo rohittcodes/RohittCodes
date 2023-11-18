@@ -14,7 +14,7 @@ Web Developer and AI-ML Engineer.
 
 <a href="https://www.github.com/rohittcodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rohittcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/rohittcodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rohittcodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/rohittcodes?logo=twitter&style=for-the-badge&color=ffffff&labelColor=ffffff"
 /></a>
 
 ### Skills
@@ -26,7 +26,7 @@ src="https://img.shields.io/twitter/follow/rohittcodes?logo=twitter&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/rohittcodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/501210/github.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://svgrepo.com/show/512317/github-142.svg" /> <img src="https://svgrepo.com/show/512317/github-142.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/rohittcodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/501210/github.svg" /> <source media="(prefers-color-scheme: dark)" srcset="https://svgrepo.com/show/512317/github-142.svg" /> <img src="https://svgrepo.com/show/512317/github-142.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 

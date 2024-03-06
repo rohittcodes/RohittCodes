@@ -7,9 +7,9 @@ Web Developer and AI-ML Engineer.
 * 🌍  I'm based in Hyderabad, Telangana.
 * 🖥️  See my portfolio at [RohittCodes](http://rohittcodes.wixsite.com/portfolio)
 * ✉️  You can contact me at [singhmalik583@gmail.com](mailto:singhmalik583@gmail.com)
-* 🚀  I'm currently working on [Open Maps](http://github.com/RohittCodes/OpenMaps)
+* 🚀  I'm currently working on [SkillScape](https://skillscape.study)
 * 🧠  I'm learning React, TensorFlow.
-* 🤝  I'm open to collaborating on React & React Native projects.
+* 🤝  I'm open to collaborating on React & NextJS projects.
 * ⚡  I usually sing pretty well, but let it be a secret!
 
 <a href="https://www.github.com/rohittcodes" target="_blank" rel="noreferrer"><img

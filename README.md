@@ -5,10 +5,10 @@ Web Developer and AI-ML Engineer.
 ---------------------------------
 
 * 🌍  I'm based in Hyderabad, Telangana.
-* 🖥️  See my portfolio at [RohittCodes](http://rohittcodes.wixsite.com/portfolio)
+* 🖥️  See my portfolio at [RohittCodes](http://rohittcodes.netlify.app)
 * ✉️  You can contact me at [singhmalik583@gmail.com](mailto:singhmalik583@gmail.com)
 * 🚀  I'm currently working on [SkillScape](https://skillscape.study)
-* 🧠  I'm learning React, TensorFlow.
+* 🧠  I'm learning React, TensorFlow, and Web3(Solana).
 * 🤝  I'm open to collaborating on React & NextJS projects.
 * ⚡  I usually sing pretty well, but let it be a secret!
 

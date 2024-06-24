@@ -17,7 +17,9 @@ src="https://img.shields.io/github/followers/rohittcodes?logo=github&style=for-t
 src="https://img.shields.io/twitter/follow/rohittcodes?logo=twitter&style=for-the-badge&color=ffffff&labelColor=ffffff"
 /></a>
 
-### Skills
+<!-- ### Skills
+
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts,py,cpp,mongodb,nodejs,nextjs,prisma,tailwind,react,git) -->
 
 ### Socials
 
@@ -27,11 +29,11 @@ src="https://img.shields.io/twitter/follow/rohittcodes?logo=twitter&style=for-th
 
 <b>My GitHub Stats</b>
 
-[![rohittcodes's GitHub | Stats](https://stats.quine.sh/rohittcodes/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rohittcodes)
+<a href="http://www.github.com/rohittcodes"><img src="https://github-readme-stats.vercel.app/api?username=rohittcodes&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rohittcodes's GitHub stats" /></a>
 
-[![rohittcodes's GitHub | Topics Over Time](https://stats.quine.sh/rohittcodes/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rohittcodes)
+<a href="http://www.github.com/rohittcodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohittcodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![rohittcodes's GitHub | Languages Over Time](https://stats.quine.sh/rohittcodes/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rohittcodes)
+<a href="https://github.com/rohittcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohittcodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 

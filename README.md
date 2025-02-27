@@ -4,3 +4,5 @@ fn main(){
   // println!("and hey remember me!!");
 }
 ```
+
+![Lang stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohittcodes\&layout=compact)

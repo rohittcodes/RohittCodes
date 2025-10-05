@@ -1,3 +1,17 @@
+<!-- Top intro section for the very start -->
+<p align="center">
+  <strong>🚀 Full-stack Engineer | 🧑‍💻 AI & Blockchain SaaS | ✨ Building, Writing, Sharing</strong><br/>
+  <em>Solving problems with code. Always learning, sometimes teaching.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rohittcodes?label=Follow&style=social" />
+  <img src="https://img.shields.io/badge/Bounties%20Completed-10-green?logo=gitcoin&style=flat" />
+  <img src="https://img.shields.io/badge/Articles-15-white?logo=dev.to&style=flat" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCPUtXb9YsZb_uwu4QIVBqpQ?style=social" />
+  <!-- Add or remove based on your actual metrics -->
+</p>
+
 ```rust
 fn main(){
   println!("i love building stuffs");

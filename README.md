@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/rohittcodes?label=Follow&style=social" />
-  <img src="https://img.shields.io/badge/Bounties%20Completed-10-green?logo=gitcoin&style=flat" />
+  <img src="https://img.shields.io/badge/Algora%20Earnings-$297-orange?logo=algora&style=flat" />
   <img src="https://img.shields.io/badge/Articles-15-white?logo=dev.to&style=flat" />
   <img src="https://img.shields.io/youtube/channel/subscribers/UCPUtXb9YsZb_uwu4QIVBqpQ?style=social" />
-  <!-- Add or remove based on your actual metrics -->
+  <img src="https://img.shields.io/reddit/user-karma/combined/rohittcodes?logo=reddit&style=social" />
 </p>
 
 ```rust
@@ -142,4 +142,10 @@ fn main(){
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rohittcodes/rohittcodes/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+## ✍️ Featured Articles
+
+- [10 Best MCP Servers to Enhance Your ChatGPT Experience](https://dev.to/composiodev/10-best-mcp-servers-to-take-your-chatgpt-experience-to-next-level-19k6)
+- [Claude Code vs Codex: Developer Workflow Comparison](https://dev.to/composiodev/claude-code-vs-codex-dev-workflow-comparison-4jjf)
+- [I built my complete side project in a day using Claude Code and MCP, now you know why they don't hire jr devs anymore](https://dev.to/composiodev/i-built-my-complete-side-project-in-a-day-using-claude-code-and-mcp-now-you-know-why-they-dont-22gk)
+- [Can You Build AI Agents in Rust? Yep, and Here’s How I Did it](https://dev.to/composiodev/can-you-build-ai-agents-in-rust-yep-and-heres-how-i-did-it-2b5i)
+- [Neon OSS Kit: Ship Your Next.js Apps Faster Than Ever](https://dev.to/rohittcodes/neon-oss-kit-ship-your-nextjs-apps-faster-than-ever-4n7f)

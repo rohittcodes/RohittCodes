@@ -134,6 +134,8 @@ fn main(){
   <img src="https://github-profile-trophy.vercel.app?username=rohittcodes&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+[![@rohittcodes's Holopin board](https://holopin.io/api/user/board?user=rohittcodes)](https://holopin.io/@rohittcodes)
+
 ###
 
 <picture>
